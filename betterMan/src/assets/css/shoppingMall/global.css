@@ -1,0 +1,32 @@
+/*公共的样式*/
+.publicBannerBox{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+	box-sizing: border-box;
+
+}
+.publicBannerBox.needLoading{
+	min-height: 50px;
+	position: relative;
+}
+.publicBannerBox img{
+	display: block;
+	width: 100%;
+}
+.publicBannerBox.paddingAll{
+	padding: 10px;
+}
+.publicBannerBox.whiteBg{
+	background-color: #fff;
+}
+.van-badge--select{
+	border-color:#0d9ef1;
+}
+
+/*禁止复制*/
+html,body{
+	-moz-user-select: none;
+	-webkit-user-select: none;
+	user-select: none;
+}

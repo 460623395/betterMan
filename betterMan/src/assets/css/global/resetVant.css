@@ -1,0 +1,490 @@
+/*个人中心覆盖部分*/
+#userCenterIndex .van-nav-bar--fixed::after{
+    border:none;
+    border-bottom-width:0!important;
+    display:none;
+}
+#userCenterIndex .van-circle__text{
+    font-size: 12px;
+    font-weight: bold;
+    color: #30aaff;
+}
+/*#userCenterIndex .van-circle{*/
+    /*background-color: #fff;*/
+    /*border-radius: 50%;*/
+/*}*/
+/*[class*=van-nav-bar--fixed]::after{*/
+    /*border:none;*/
+    /*border-bottom-width:0;*/
+/*}*/
+.van-nav-bar--fixed::after{
+    /*border:none;*/
+    /*border-bottom-width:0!important;*/
+    /*content: "";*/
+    /*box-sizing: content-box;*/
+    /*position: static;*/
+    /*transform:none!important;*/
+    /*width: 0;*/
+    border-bottom-width:0!important;
+
+}
+/*.van-nav-bar__left{*/
+    /*width: 20%;*/
+    /*text-align: left;*/
+/*}*/
+/*商城首页覆盖部分*/
+#index .van-field {
+    border-radius: 70px;
+    padding: 4px 8px !important;
+    margin-top: 8px;
+}
+
+#index .van-field__clear {
+    color: #999 !important;
+}
+
+#index .van-nav-bar__title {
+    max-width: 72%;
+}
+/*重置所有商城的头部left部分*/
+.van-nav-bar .van-nav-bar__left .van-icon{
+    color: #fafafa;
+    font-size: 18px;
+}
+.van-nav-bar--fixed{
+    z-index: 999!important;
+}
+/*.van-nav-bar .van-nav-bar__left:focus{*/
+    /*outline: none!important;*/
+    /*background-color: transparent!important;*/
+/*}*/
+.van-nav-bar .van-nav-bar__left .van-nav-bar__text{
+    color: #fafafa;
+    font-size: 14px;
+}
+.van-nav-bar .van-nav-bar__left .van-nav-bar__text:active{
+    background-color: transparent;
+}
+.van-nav-bar .van-nav-bar__left .van-nav-bar__text:focus{
+    outline: none;
+}
+.van-nav-bar .van-icon {
+    color: #999;
+    font-size: 18px;
+}
+.MSDateTabBox .van-tab--active{
+    color: #ff8e2a!important;
+}
+.MSDateTabBox .van-tab{
+    color: #515151;
+}
+.MSDateTabBox .van-tabs--line .van-tabs__wrap{
+    height: 100%;
+    overflow: hidden;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.MSDateTabBox .van-tabs--line{
+    padding-top: 60px;
+}
+.MSDateTabBox .van-tabs__nav--line{
+    padding-bottom: 0;
+}
+.MSDateTabBox .van-tabs__line{
+    display: none!important;
+}
+.MSDateTabBox .van-tab{
+    line-height: inherit!important;
+}
+
+/*商城购物车覆盖部分*/
+#shopCart [class*=van-badge]::after {
+    border: none !important;
+}
+#shopCart .carAdminLine .van-submit-bar__text{
+    display: none;
+}
+#shopCart .carAdminLine .van-submit-bar__bar{
+    justify-content: space-between;
+}
+/*.van-badge-group,.van-badge-group .van-badge{
+    transition: all ease .3s;
+}*/
+#shopCart .van-submit-bar__bar .van-checkbox__label{
+    margin-left: 2px;
+}
+#shopCart .van-submit-bar__bar .van-checkbox{
+    margin-left: 10px;
+}
+#shopCart .van-submit-bar__bar .van-button--danger{
+    background: linear-gradient(to right,#30aaff,#2BD0FE)!important;
+    border: none!important;
+}
+#shopCart .van-submit-bar__price-integer{
+    color: #ff9921;
+}
+#shopCart .van-submit-bar__price-decimal{
+    color: #ff9921;
+}
+#shopCart .van-submit-bar__bar .van-checkbox__icon--checked .van-icon{
+    background-color: #11a5f2;
+    border-color: #11a5f2;
+}
+#shopCart .van-checkbox__icon--checked .van-icon{
+    background-color: #11a5f2;
+    border-color: #11a5f2;
+}
+/*商城评论列表覆盖部分*/
+#evaluationList .evaListBox .van-rate__item{
+    fill: #ffa133;
+}
+
+/*商城搜索页面的覆盖部分*/
+#searchPage .van-field {
+    border-radius: 70px;
+    padding: 4px 8px!important;
+    margin-top: 8px;
+}
+
+#searchPage .van-field__clear {
+    color: #999!important;
+}
+
+#searchPage .van-nav-bar__title {
+    max-width: 70%;
+}
+
+#searchPage .van-nav-bar .van-icon {
+    color: #999;
+}
+#searchPage .clearHistoryBox .van-button--large {
+    height: 46px!important;
+    border-radius: 50px;
+    line-height: 46px!important;
+}
+
+#searchPage .clearHistoryBox .van-button--large:active {
+    background-color: #eee!important;
+    color: #333!important;
+}
+
+#searchPage .clearHistoryBox .van-button::before {
+    border-color: #e5e5e5!important;
+    background-color: #eee!important;
+    color: #333!important;
+}
+
+#searchPage .clearHistoryBox .van-button:active::before {
+    opacity: 1!important;
+}
+
+#searchPage .clearHistoryBox .van-button__text {
+    font-size: 14px;
+}
+
+#searchPage .van-dialog__confirm,
+#searchPage .van-dialog__confirm:active {
+    color: #0d9ef1;
+}
+/*搜索结果页面*/
+#searchResultPage .van-field {
+    border-radius: 70px;
+    padding: 4px 8px !important;
+    margin-top: 8px;
+}
+
+#searchResultPage .van-field__clear {
+    color: #999 !important;
+}
+
+#searchResultPage .van-nav-bar__title {
+    max-width: 72%;
+}
+
+#searchResultPage .van-nav-bar .van-icon {
+    color: #999;
+}
+
+#searchResultPage .van-dialog__confirm,
+#searchResultPage .van-dialog__confirm:active {
+    color: #0d9ef1;
+}
+/*退款类型覆盖*/
+#refundType .van-cell-group .van-cell__left-icon{
+    color: #30aaff;
+    font-size: 18px;
+}
+/*退款申请覆盖*/
+#refundApply .van-cell-group .van-cell__left-icon {
+    color: #30aaff;
+    font-size: 18px;
+}
+/*商城首页企业服务覆盖*/
+#enterpriseService .van-tabs__wrap::after{
+    border:none;
+}
+/*商品详情里的顶部导航图标样式覆盖*/
+#goodContent .topFixedNav .van-icon{
+    color: #fff;
+    background-color: rgba(0,0,0,0.45);
+    padding: 6px;
+    border-radius: 50%;
+    font-size: 16px;
+}
+/*覆盖商品详情*/
+/*覆盖商品详情-商品服务弹出框*/
+#goodContent .goodServicePopupBox .van-cell__title{
+    color: #999;
+}
+#goodContent .evaListBox .van-rate__item{
+    fill: #ffa133!important;
+}
+#goodContent .goodServicePopupBox .van-cell:not(:last-child)::after{
+    border: none;
+}
+/*覆盖商品详情-问答*/
+#goodContent .qAndAListBox .van-cell__title span{
+    color: #333;
+    font-size: 14px;
+    font-weight: 700;
+}
+#goodContent .qAndAListBox .van-cell__label {
+    font-size: 14px;
+    color: #333;
+}
+/*覆盖商品详情-swiper active*/
+#goodContent .van-swipe__indicator--active{
+    background-color: #f44!important;
+}
+#goodContent .topFixedNav{
+    z-index: 9999!important;
+}
+/*商品基本信息覆盖*/
+#goodContent .goodTitleBox .van-cell{
+    padding: 5px 0;
+}
+/*商品服务cell覆盖*/
+#goodContent .goodServicePopupBox .van-icon{
+    color: #f44;
+}
+#goodContent .goodServicePopupBox .van-cell__title{
+    color: #666;
+}
+#goodContent .serviceCell .van-cell__value{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+/*所有的商品弹窗框修改*/
+#goodContent .van-popup--bottom{
+    height: 74%;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+#goodContent .van-sku-container{
+    height: auto!important;
+}
+#goodContent .van-sku-messages{
+    display: none;
+}
+/*促销查看覆盖*/
+#goodContent .promotion .van-icon{
+    color: #f44;
+}
+#goodContent .van-cell-group.goodServicePopupBox,#goodContent.van-cell-group .goodDetailParams,#goodContent .van-cell-group.promotion{
+    flex: 1;
+    /*display: flex;*/
+    flex-direction: column;
+    overflow: auto;
+}
+#goodContent .couponPopup{
+    background-color: #fafafa;
+}
+#goodContent .had .van-icon{
+    position: absolute;
+    top: -13px;
+    right: -13px;
+    color: #fff;
+    font-size: 12px;
+}
+#goodContent .van-sku-header__img-wrap img{
+    width: 100%;
+    height: 100%;
+}
+/*问答列表页面覆盖*/
+#buyQusAndAnwList .qAndAListBox .van-cell__title span{
+    color: #333;
+    font-size: 17px;
+    font-weight: 700;
+    margin-bottom: 4px;
+    display: inline-block;
+}
+#buyQusAndAnwList .van-cell__label{
+    color: #333;
+    font-size: 14px;
+}
+#buyQusAndAnwList .van-cell:not(:last-child)::after{
+    border-bottom-width:0;
+}
+#buyQusAndAnwList .van-cell{
+    background-color: transparent;
+    padding: 0;
+    margin-bottom: 10px;
+}
+#goodContent .van-icon-like{
+    color: #f44;
+}
+/*编辑收货地址样式覆盖*/
+#addressEdit  .van-cell__title{
+    color: #999;
+}
+#addressEdit .van-radio{
+    display: inline-block;
+}
+
+#addressEdit .van-radio__label{
+    margin-left: 4px;
+}
+#addressEdit .van-radio .van-icon-checked{
+    color: #ffa841;
+}
+#addressEdit .van-switch--on{
+    background-color:#ffa841;
+}
+/*订单列表样式覆盖*/
+#selectAddressList .van-address-list .van-icon-checked{
+    color: #30aaff;
+}
+#selectAddressList .van-button--danger{
+    background-color: #30aaff;
+    border: none;
+}
+/*提交订单覆盖*/
+#orderTotalMoudel  .van-cell__value{
+    font-size: 14px;
+    color: #f44;
+}
+/*#confirmOrderOrderTotalPrice .van-cell__value{*/
+    /*font-size: 14px;*/
+    /*color: #f44;*/
+/*}*/
+#confirmOrder .van-submit-bar .van-button{
+    background: linear-gradient(to right,#30aaff,#2BD0FE);
+    border: none;
+}
+#confirmOrder .van-submit-bar__price-integer{
+    color: #ff790d;
+}
+#confirmOrder .van-submit-bar__price-decimal{
+    color: #ff790d;
+}
+#confirmOrderSelectAddress{
+    padding-bottom: 0;
+}
+#confirmOrderSelectAddress::after{
+    border: none;
+}
+#confirmOrder .van-hairline--top-bottom::after{
+    border: none;
+}
+/*店铺中心覆盖*/
+#shopCenterIndex .shopIndexTopFixedBox .van-field {
+    border-radius: 70px;
+    padding: 4px 8px !important;
+    margin-top: 8px;
+}
+#shopCenterIndex .shopIndexTopFixedBox .van-nav-bar .van-icon{
+    color: #999;
+}
+#shopCenterIndex .van-nav-bar__title {
+    max-width: 70%;
+}
+#shopCenterIndex .blockBg .van-tabs__nav{
+    background-color:transparent;
+}
+#shopCenterIndex .blockBg .van-tab{
+    background-color: transparent;
+    color: #fff;
+}
+#shopCenterIndex .blockBg .van-tabs__line{
+    background-color: #fff;
+    bottom: 6px;
+}
+#shopCenterIndex .blockBg .van-tabs__nav--line{
+    padding-bottom: 0;
+}
+#shopCenterIndex .van-tabs__wrap::after{
+    border: none;
+}
+#shopCenterIndex .van-tabs--line .van-tabs__wrap{
+    height: 100%;
+}
+/*店铺中心搜索页面*/
+#searchThisShop .van-field {
+    border-radius: 70px;
+    padding: 4px 8px !important;
+    margin-top: 8px;
+}
+#searchThisShop .van-nav-bar .van-icon {
+    color: #999;
+}
+#searchThisShop .van-nav-bar__title{
+    max-width: 70%;
+}
+/*店铺中心搜索结果页面*/
+#shopCenterSearchResult .van-field {
+    border-radius: 70px;
+    padding: 4px 8px !important;
+    margin-top: 8px;
+}
+#shopCenterSearchResult .van-nav-bar .van-icon {
+    color: #999;
+}
+#shopCenterSearchResult .van-nav-bar__title{
+    max-width: 70%;
+}
+/*列表的没有更多样式覆盖*/
+.van-list__finished-text, .van-list__loading-text{
+    line-height: unset;
+    padding: 10px 0;
+}
+/*订单的地址选择的样式覆盖*/
+#confirmOrderSelectAddressPopup .van-address-item__edit{
+    display: none!important;
+}
+#confirmOrderSelectAddressPopup .van-address-item .van-cell__value{
+    padding-right: 0!important;
+}
+#confirmOrderSelectAddressPopup .van-address-item .van-icon-checked{
+    color: #30aaff!important;
+}
+#confirmOrderSelectAddressPopup .van-button--danger{
+    background-color: #30aaff!important;
+    border:none!important;
+}
+#confirmOrderSelectAddressPopup .van-address-list{
+    padding-bottom: 50px!important;
+}
+/*商品详情的按钮颜色更改*/
+#goodContent .van-button--warning{
+    background-color: #63bfff;
+    border: none;
+}
+#goodContent .van-button--danger{
+    background-color: #30aaff;
+    border: none;
+}
+#goodContent .van-sku-container .van-button--default{
+    background-color: #63bfff;
+    border: none;
+}
+#goodContent .van-sku-container .van-button--bottom-action.van-button--primary{
+    background-color: #30aaff;
+    border: none;
+}
+/*商品详情，商品评论晒单评价的底部tab*/
+#goodContent .van-tabs__line{
+    background-color: transparent;
+}

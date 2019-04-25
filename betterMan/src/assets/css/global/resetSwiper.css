@@ -1,0 +1,16 @@
+/*商品详情的覆盖*/
+#goodContent .swiper-pagination-bullet-active{
+	background: #f44!important;
+}
+#goodContent .swiper-container-horizontal > .swiper-pagination-bullets{
+	bottom:0;
+}
+/*覆盖明星店铺banner*/
+#starShopBottomBanner .swiper-wrapper{
+	display: flex;
+	align-items: baseline;
+}
+#starShopBottomBanner .swiper-slide-active .starShopBannerBox img{
+    width: 100%;
+    height: 100%;
+}
