@@ -1,0 +1,187 @@
+/*公共的样式*/
+
+html,
+body {
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    background-color: #f1f1f1;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+    border: none;
+    display: block;
+    -webkit-margin-before: 0;
+    -webkit-margin-after: 0;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    display: block;
+    /*font-size: 1.17em;*/
+    -webkit-margin-before: 0;
+    -webkit-margin-after: 0;
+    -webkit-margin-start: 0;
+    -webkit-margin-end: 0;
+    /*font-weight: bold;*/
+}
+
+/*暂无数据*/
+.noMoreDataLine {
+    text-align: center;
+    font-size: 14px;
+    color: #999;
+    /*margin-top: 10px;*/
+}
+.noMoreDataLine.marginTop{
+    margin-top: 10px;
+}
+.noMoreDataLine.paddingY{
+    padding: 10px 0;
+}
+/*公共的所有模块的根元素*/
+.publicAllContentBg {
+    width: 100%;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding-top: 46px;
+}
+
+.publicAllContentBg.index {
+    padding-top: 91px;
+}
+
+.publicAllContentBg.none {
+    padding-top: 0;
+}
+
+.publicAllContentBg.shopIndex {
+    padding-top: 150px;
+}
+
+.publicAllContentBg.fullHeight {
+    height: 100%;
+}
+
+.publicAllContentBg.whiteBg {
+    background-color: #fff;
+}
+
+.publicAllContentBg.pos {
+    position: relative;
+}
+.publicAllContentBg.scrollY {
+    overflow-y: scroll;
+}
+/*vant样式覆盖*/
+
+.van-tabbar-item--active {
+}
+
+.van-icon {
+    /*font-size: 16px!important;*/
+}
+
+/*公共的css模型盒子*/
+
+.publicContainerBox {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+
+/*vue数据渲染样式(解决渲染时出现变量名称,每个vue根元素都引入)*/
+
+[v-cloak] {
+    display: none;
+}
+
+/*统一的顶部padding*(解决顶部导航栏固定以后，会覆盖住一部分的方法，按需引入该样式)/
+ */
+
+.vueElementPadding {
+    padding-top: 46px;
+}
+
+/*覆盖vant样式*/
+.van-swipe__indicator--active {
+    background-color: #0d9ef1 !important;
+}
+
+[class*=van-nav-bar]::after {
+    border: none !important;
+    content: none;
+}
+
+/*暂无数据*/
+.noDataLine {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.noDataLine.marginTop {
+    margin-top: 10px;
+}
+
+.noDataLine > p {
+    text-align: center;
+    color: #999;
+    font-size: 14px;
+}
+
+/*div:after {*/
+/*display: block;*/
+/*content: "";*/
+/*clear: both;*/
+/*}*/
+/*全局的loading动画样式*/
+.globalLoadingAnmClass {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-left: -15px;
+    margin-top: -15px;
+}
+/*全局的header样式*/
+.globalNavBarHeaderClass{
+    background: linear-gradient(to right,#30aaff,#2BD0FE);color: #fafafa;
+}
+/*全局的header里的icon*/
+.globalNavBarIconClass{
+    color: #fafafa!important;
+}
+.globalNavBarIconClass.bigFont{
+    font-size: 18px;
+}
+/*收货地址里的选中框覆盖*/
+#selectAddressList .van-address-item .van-radio__input{
+    display: none;
+}
+#selectAddressList .van-address-item .van-radio__label{
+    padding-left: 0!important;
+}
+/*确认订单里的收货地址覆盖*/
+#confirmOrder .van-address-item .van-radio__label{
+    padding-left: 0!important;
+}
+#confirmOrder .van-address-list{
+    padding-bottom: 50px;
+}
+#confirmOrder .van-address-item .van-radio__input{
+    display: none;
+}
+.goodContentShowBox img{
+    width: 100%!important;
+    display: block;
+}
