@@ -2,7 +2,1028 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a894e13-fe6b-45eb-a431-592c4bdc17ec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/AsyncGenerator.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/AsyncGenerator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/applyDecoratedDescriptor.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/applyDecoratedDescriptor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/asyncGeneratorDelegate.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/asyncGeneratorDelegate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/asyncIterator.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/asyncIterator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/classPrivateFieldGet.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/classPrivateFieldGet.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/classPrivateFieldSet.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/classPrivateFieldSet.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/decorate.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/decorate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/AsyncGenerator.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/AsyncGenerator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/applyDecoratedDescriptor.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/applyDecoratedDescriptor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/asyncGeneratorDelegate.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/asyncGeneratorDelegate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/asyncIterator.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/asyncIterator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/classPrivateFieldGet.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/classPrivateFieldGet.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/classPrivateFieldSet.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/classPrivateFieldSet.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/decorate.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/decorate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/interopRequireDefault.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/interopRequireDefault.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/interopRequireWildcard.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/interopRequireWildcard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/jsx.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/jsx.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/toPropertyKey.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/toPropertyKey.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/interopRequireDefault.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/interopRequireDefault.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/interopRequireWildcard.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/interopRequireWildcard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/jsx.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/jsx.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/toPropertyKey.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/toPropertyKey.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/node_modules/regenerator-runtime/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/node_modules/regenerator-runtime/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/node_modules/regenerator-runtime/runtime-module.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/node_modules/regenerator-runtime/runtime.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/node_modules/regenerator-runtime/runtime.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/README.zh-CN.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/README.zh-CN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/actionsheet/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/actionsheet/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/actionsheet/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/actionsheet/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/address-edit/Detail.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/address-edit/Detail.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/address-edit/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/address-edit/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/address-edit/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/address-edit/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/address-list/Item.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/address-list/Item.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/address-list/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/address-list/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/address-list/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/address-list/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/area/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/area/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/area/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/area/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/badge-group/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/badge-group/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/badge-group/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/badge-group/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/badge/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/badge/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/badge/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/badge/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/button/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/button/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/button/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/button/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/card/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/card/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/card/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/card/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/cell-group/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/cell-group/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/cell-group/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/cell-group/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/cell/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/cell/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/cell/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/cell/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/checkbox-group/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/checkbox-group/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/checkbox-group/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/checkbox-group/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/checkbox/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/checkbox/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/checkbox/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/checkbox/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/circle/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/circle/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/circle/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/circle/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/col/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/col/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/col/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/col/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/collapse-item/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/collapse-item/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/collapse-item/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/collapse-item/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/collapse/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/collapse/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/collapse/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/collapse/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/contact-card/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/contact-card/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/contact-card/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/contact-card/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/contact-edit/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/contact-edit/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/contact-edit/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/contact-edit/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/contact-list/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/contact-list/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/contact-list/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/contact-list/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/coupon-cell/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/coupon-cell/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/coupon-cell/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/coupon-cell/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/coupon-list/Item.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/coupon-list/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/coupon-list/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/coupon-list/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/coupon-list/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/datetime-picker/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/datetime-picker/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/datetime-picker/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/datetime-picker/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/dialog/Dialog.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/dialog/Dialog.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/dialog/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/dialog/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/dialog/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/dialog/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/field/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/field/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/field/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/field/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/goods-action-big-btn/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/goods-action-big-btn/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/goods-action-big-btn/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/goods-action-big-btn/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/goods-action-mini-btn/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/goods-action-mini-btn/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/goods-action-mini-btn/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/goods-action-mini-btn/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/goods-action/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/goods-action/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/goods-action/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/goods-action/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/icon/assets/icons.sketch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/icon/config/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/icon/config/template-local.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/icon/config/template.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/icon/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/icon/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/icon/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/icon/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/icon/vant-icon-76f274.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/image-preview/ImagePreview.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/image-preview/ImagePreview.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/image-preview/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/image-preview/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/image-preview/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/image-preview/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/info/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/info/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/info/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/info/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/lazyload/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/lazyload/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/list/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/list/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/list/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/list/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/loading/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/loading/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/loading/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/loading/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/locale/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/locale/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/locale/lang/en-US.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/locale/lang/en-US.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/locale/lang/zh-CN.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/locale/lang/zh-CN.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/locale/lang/zh-HK.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/locale/lang/zh-HK.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/locale/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/locale/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/mixins/bem.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/mixins/find-parent.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/mixins/find-parent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/mixins/i18n.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/mixins/popup/Modal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/mixins/popup/context.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/mixins/popup/context.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/mixins/popup/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/mixins/popup/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/mixins/popup/manager.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/mixins/router-link.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/mixins/touch.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/mixins/touch.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/nav-bar/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/nav-bar/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/nav-bar/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/nav-bar/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/notice-bar/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/notice-bar/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/notice-bar/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/notice-bar/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/number-keyboard/Key.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/number-keyboard/Key.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/number-keyboard/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/number-keyboard/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/number-keyboard/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/number-keyboard/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/pagination/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/pagination/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/pagination/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/pagination/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/panel/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/panel/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/panel/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/panel/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/password-input/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/password-input/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/password-input/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/password-input/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/picker/PickerColumn.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/picker/PickerColumn.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/picker/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/picker/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/picker/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/picker/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/popup/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/popup/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/popup/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/popup/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/progress/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/progress/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/progress/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/progress/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/pull-refresh/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/pull-refresh/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/pull-refresh/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/pull-refresh/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/radio-group/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/radio-group/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/radio-group/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/radio-group/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/radio/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/radio/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/radio/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/radio/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/rate/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/rate/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/rate/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/rate/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/row/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/row/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/row/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/row/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/search/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/search/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/search/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/search/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/sku/Sku.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/sku/Sku.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/sku/components/SkuActions.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/sku/components/SkuActions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/sku/components/SkuHeader.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/sku/components/SkuHeader.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/sku/components/SkuImgUploader.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/sku/components/SkuImgUploader.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/sku/components/SkuMessages.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/sku/components/SkuMessages.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/sku/components/SkuRow.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/sku/components/SkuRow.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/sku/components/SkuRowItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/sku/components/SkuRowItem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/sku/components/SkuStepper.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/sku/components/SkuStepper.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/sku/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/sku/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/sku/utils/skuHelper.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/sku/utils/skuHelper.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/slider/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/slider/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/slider/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/slider/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/step/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/step/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/step/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/step/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/stepper/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/stepper/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/stepper/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/stepper/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/steps/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/steps/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/steps/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/steps/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/submit-bar/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/submit-bar/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/submit-bar/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/submit-bar/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/swipe-cell/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/swipe-cell/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/swipe-cell/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/swipe-cell/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/swipe-item/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/swipe-item/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/swipe-item/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/swipe-item/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/swipe/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/swipe/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/swipe/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/swipe/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/switch-cell/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/switch-cell/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/switch-cell/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/switch-cell/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/switch/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/switch/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/switch/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/switch/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/tab/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/tab/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/tab/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/tab/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/tabbar-item/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/tabbar-item/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/tabbar-item/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/tabbar-item/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/tabbar/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/tabbar/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/tabbar/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/tabbar/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/tabs/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/tabs/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/tabs/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/tabs/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/tag/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/tag/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/tag/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/tag/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/toast/Toast.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/toast/Toast.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/toast/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/toast/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/toast/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/toast/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/tree-select/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/tree-select/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/tree-select/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/tree-select/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/uploader/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/uploader/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/uploader/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/uploader/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/utils/clickoutside.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/utils/create-basic.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/utils/create.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/utils/deep-assign.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/utils/deep-assign.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/utils/deep-clone.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/utils/deep-clone.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/utils/event.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/utils/event.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/utils/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/utils/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/utils/raf.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/utils/raf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/utils/scroll.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/utils/scroll.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/utils/validate/email.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/utils/validate/email.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/utils/validate/mobile.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/utils/validate/mobile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/utils/validate/number.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/utils/validate/number.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/vant-css/actionsheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/vant-css/address-edit.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/vant-css/address-list.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/vant-css/badge.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/vant-css/base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/vant-css/button.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/vant-css/card.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/vant-css/cell.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/vant-css/checkbox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/vant-css/circle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/vant-css/col.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/vant-css/collapse.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/vant-css/contact-card.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/vant-css/contact-edit.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/vant-css/contact-list.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/vant-css/coupon-list.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/vant-css/dialog.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/vant-css/field.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/vant-css/goods-action.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/vant-css/icon-local.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/vant-css/icon.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/vant-css/image-preview.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/vant-css/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/vant-css/info.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/vant-css/list.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/vant-css/loading.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/vant-css/nav-bar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/vant-css/notice-bar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/vant-css/number-keyboard.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/vant-css/pagination.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/vant-css/panel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/vant-css/password-input.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/vant-css/picker.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/vant-css/popup.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/vant-css/progress.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/vant-css/pull-refresh.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/vant-css/radio.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/vant-css/rate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/vant-css/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/vant-css/row.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/vant-css/search.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/vant-css/sku.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/vant-css/slider.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/vant-css/stepper.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/vant-css/steps.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/vant-css/submit-bar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/vant-css/swipe-cell.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/vant-css/swipe.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/vant-css/switch-cell.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/vant-css/switch.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/vant-css/tab.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/vant-css/tabbar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/vant-css/tag.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/vant-css/toast.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/vant-css/tree-select.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/vant-css/uploader.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/waterfall/directive.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/waterfall/directive.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/waterfall/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/waterfall/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/waterfall/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/waterfall/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/actionsheet/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/actionsheet/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/actionsheet/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/actionsheet/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/address-edit/Detail.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/address-edit/Detail.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/address-edit/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/address-edit/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/address-edit/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/address-edit/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/address-list/Item.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/address-list/Item.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/address-list/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/address-list/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/address-list/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/address-list/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/area/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/area/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/area/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/area/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/badge-group/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/badge-group/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/badge-group/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/badge-group/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/badge/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/badge/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/badge/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/badge/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/button/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/button/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/button/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/button/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/card/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/card/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/card/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/card/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/cell-group/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/cell-group/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/cell-group/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/cell-group/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/cell/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/cell/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/cell/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/cell/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/checkbox-group/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/checkbox-group/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/checkbox-group/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/checkbox-group/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/checkbox/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/checkbox/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/checkbox/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/checkbox/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/circle/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/circle/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/circle/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/circle/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/col/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/col/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/col/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/col/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/collapse-item/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/collapse-item/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/collapse-item/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/collapse-item/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/collapse/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/collapse/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/collapse/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/collapse/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/contact-card/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/contact-card/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/contact-card/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/contact-card/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/contact-edit/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/contact-edit/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/contact-edit/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/contact-edit/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/contact-list/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/contact-list/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/contact-list/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/contact-list/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/coupon-cell/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/coupon-cell/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/coupon-cell/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/coupon-cell/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/coupon-list/Item.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/coupon-list/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/coupon-list/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/coupon-list/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/coupon-list/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/datetime-picker/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/datetime-picker/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/datetime-picker/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/datetime-picker/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/dialog/Dialog.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/dialog/Dialog.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/dialog/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/dialog/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/dialog/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/dialog/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/field/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/field/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/field/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/field/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/goods-action-big-btn/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/goods-action-big-btn/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/goods-action-big-btn/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/goods-action-big-btn/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/goods-action-mini-btn/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/goods-action-mini-btn/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/goods-action-mini-btn/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/goods-action-mini-btn/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/goods-action/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/goods-action/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/goods-action/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/goods-action/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/icon/assets/icons.sketch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/icon/config/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/icon/config/template-local.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/icon/config/template.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/icon/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/icon/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/icon/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/icon/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/icon/vant-icon-76f274.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/image-preview/ImagePreview.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/image-preview/ImagePreview.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/image-preview/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/image-preview/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/image-preview/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/image-preview/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/info/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/info/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/info/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/info/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/lazyload/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/lazyload/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/lazyload/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/lazyload/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/list/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/list/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/list/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/list/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/loading/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/loading/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/loading/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/loading/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/locale/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/locale/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/locale/lang/en-US.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/locale/lang/en-US.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/locale/lang/zh-CN.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/locale/lang/zh-CN.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/locale/lang/zh-HK.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/locale/lang/zh-HK.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/locale/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/locale/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/mixins/bem.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/mixins/find-parent.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/mixins/find-parent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/mixins/i18n.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/mixins/popup/Modal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/mixins/popup/context.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/mixins/popup/context.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/mixins/popup/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/mixins/popup/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/mixins/popup/manager.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/mixins/router-link.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/mixins/touch.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/mixins/touch.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/mobile.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/mobile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/nav-bar/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/nav-bar/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/nav-bar/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/nav-bar/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/notice-bar/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/notice-bar/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/notice-bar/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/notice-bar/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/number-keyboard/Key.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/number-keyboard/Key.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/number-keyboard/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/number-keyboard/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/number-keyboard/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/number-keyboard/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/pagination/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/pagination/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/pagination/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/pagination/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/panel/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/panel/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/panel/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/panel/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/password-input/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/password-input/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/password-input/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/password-input/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/picker/PickerColumn.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/picker/PickerColumn.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/picker/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/picker/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/picker/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/picker/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/popup/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/popup/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/popup/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/popup/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/progress/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/progress/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/progress/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/progress/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/pull-refresh/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/pull-refresh/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/pull-refresh/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/pull-refresh/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/radio-group/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/radio-group/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/radio-group/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/radio-group/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/radio/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/radio/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/radio/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/radio/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/rate/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/rate/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/rate/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/rate/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/row/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/row/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/row/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/row/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/search/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/search/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/search/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/search/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/sku/Sku.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/sku/Sku.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/sku/components/SkuActions.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/sku/components/SkuActions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/sku/components/SkuHeader.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/sku/components/SkuHeader.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/sku/components/SkuImgUploader.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/sku/components/SkuImgUploader.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/sku/components/SkuMessages.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/sku/components/SkuMessages.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/sku/components/SkuRow.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/sku/components/SkuRow.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/sku/components/SkuRowItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/sku/components/SkuRowItem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/sku/components/SkuStepper.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/sku/components/SkuStepper.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/sku/constants.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/sku/constants.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/sku/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/sku/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/sku/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/sku/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/sku/utils/skuHelper.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/sku/utils/skuHelper.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/slider/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/slider/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/slider/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/slider/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/step/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/step/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/step/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/step/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/stepper/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/stepper/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/stepper/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/stepper/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/steps/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/steps/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/steps/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/steps/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/submit-bar/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/submit-bar/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/submit-bar/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/submit-bar/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/swipe-cell/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/swipe-cell/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/swipe-cell/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/swipe-cell/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/swipe-item/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/swipe-item/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/swipe-item/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/swipe-item/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/swipe/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/swipe/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/swipe/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/swipe/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/switch-cell/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/switch-cell/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/switch-cell/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/switch-cell/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/switch/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/switch/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/switch/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/switch/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/tab/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/tab/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/tab/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/tab/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/tabbar-item/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/tabbar-item/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/tabbar-item/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/tabbar-item/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/tabbar/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/tabbar/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/tabbar/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/tabbar/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/tabs/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/tabs/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/tabs/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/tabs/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/tag/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/tag/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/tag/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/tag/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/toast/Toast.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/toast/Toast.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/toast/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/toast/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/toast/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/toast/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/tree-select/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/tree-select/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/tree-select/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/tree-select/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/uploader/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/uploader/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/uploader/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/uploader/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/utils/clickoutside.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/utils/create-basic.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/utils/create.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/utils/deep-assign.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/utils/deep-assign.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/utils/deep-clone.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/utils/deep-clone.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/utils/event.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/utils/event.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/utils/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/utils/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/utils/raf.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/utils/raf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/utils/scroll.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/utils/scroll.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/utils/validate/email.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/utils/validate/email.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/utils/validate/mobile.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/utils/validate/mobile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/utils/validate/number.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/utils/validate/number.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/vant-css/actionsheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/vant-css/address-edit.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/vant-css/address-list.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/vant-css/badge.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/vant-css/base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/vant-css/button.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/vant-css/card.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/vant-css/cell.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/vant-css/checkbox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/vant-css/circle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/vant-css/col.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/vant-css/collapse.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/vant-css/contact-card.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/vant-css/contact-edit.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/vant-css/contact-list.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/vant-css/coupon-list.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/vant-css/dialog.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/vant-css/field.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/vant-css/goods-action.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/vant-css/icon-local.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/vant-css/icon.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/vant-css/image-preview.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/vant-css/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/vant-css/info.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/vant-css/list.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/vant-css/loading.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/vant-css/nav-bar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/vant-css/notice-bar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/vant-css/number-keyboard.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/vant-css/pagination.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/vant-css/panel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/vant-css/password-input.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/vant-css/picker.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/vant-css/popup.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/vant-css/progress.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/vant-css/pull-refresh.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/vant-css/radio.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/vant-css/rate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/vant-css/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/vant-css/row.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/vant-css/search.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/vant-css/sku.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/vant-css/slider.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/vant-css/stepper.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/vant-css/steps.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/vant-css/submit-bar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/vant-css/swipe-cell.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/vant-css/swipe.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/vant-css/switch-cell.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/vant-css/switch.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/vant-css/tab.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/vant-css/tabbar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/vant-css/tag.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/vant-css/toast.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/vant-css/tree-select.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/vant-css/uploader.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/vant.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/vant.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/vant.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/vant.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/waterfall/directive.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/waterfall/directive.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/waterfall/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/waterfall/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/waterfall/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/waterfall/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/actionsheet/demo/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/actionsheet/demo/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/actionsheet/en-US.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/actionsheet/en-US.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/actionsheet/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/actionsheet/test/__snapshots__/demo.spec.js.snap" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/actionsheet/test/__snapshots__/demo.spec.js.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/actionsheet/test/__snapshots__/index.spec.js.snap" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/actionsheet/test/__snapshots__/index.spec.js.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/actionsheet/test/index.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/actionsheet/test/index.spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/actionsheet/zh-CN.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/actionsheet/zh-CN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/address-edit/Detail.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/address-edit/en-US.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/address-edit/en-US.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/address-edit/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/address-edit/test/__snapshots__/demo.spec.js.snap" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/address-edit/test/__snapshots__/demo.spec.js.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/address-edit/test/__snapshots__/index.spec.js.snap" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/address-edit/test/__snapshots__/index.spec.js.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/address-edit/test/index.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/address-edit/test/index.spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/address-edit/zh-CN.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/address-edit/zh-CN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/address-list/Item.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/address-list/demo/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/address-list/demo/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/address-list/en-US.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/address-list/en-US.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/address-list/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/address-list/test/__snapshots__/demo.spec.js.snap" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/address-list/test/__snapshots__/demo.spec.js.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/address-list/zh-CN.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/address-list/zh-CN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/area/demo/area-en.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/area/demo/area-en.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/area/demo/area.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/area/demo/area.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/area/demo/area.simple.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/area/demo/area.simple.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/area/demo/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/area/demo/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/area/en-US.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/area/en-US.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/area/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/area/test/__snapshots__/demo.spec.js.snap" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/area/test/__snapshots__/demo.spec.js.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/area/test/__snapshots__/index.spec.js.snap" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/area/test/__snapshots__/index.spec.js.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/area/test/index.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/area/test/index.spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/area/zh-CN.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/area/zh-CN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/badge-group/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/badge/demo/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/badge/demo/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/badge/en-US.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/badge/en-US.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/badge/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/badge/test/__snapshots__/demo.spec.js.snap" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/badge/test/__snapshots__/demo.spec.js.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/badge/test/index.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/badge/test/index.spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/badge/zh-CN.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/badge/zh-CN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/button/demo/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/button/demo/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/button/en-US.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/button/en-US.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/button/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/button/test/__snapshots__/demo.spec.js.snap" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/button/test/__snapshots__/demo.spec.js.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/button/zh-CN.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/button/zh-CN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/card/demo/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/card/demo/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/card/en-US.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/card/en-US.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/card/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/card/test/__snapshots__/demo.spec.js.snap" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/card/test/__snapshots__/demo.spec.js.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/card/zh-CN.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/card/zh-CN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/cell-group/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/cell/demo/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/cell/demo/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/cell/en-US.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/cell/en-US.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/cell/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/cell/test/__snapshots__/demo.spec.js.snap" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/cell/test/__snapshots__/demo.spec.js.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/cell/test/index.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/cell/test/index.spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/cell/zh-CN.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/cell/zh-CN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/checkbox-group/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/checkbox/demo/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/checkbox/demo/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/checkbox/en-US.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/checkbox/en-US.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/checkbox/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/checkbox/test/__snapshots__/demo.spec.js.snap" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/checkbox/test/__snapshots__/demo.spec.js.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/checkbox/test/index.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/checkbox/test/index.spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/checkbox/zh-CN.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/checkbox/zh-CN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/circle/demo/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/circle/demo/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/circle/en-US.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/circle/en-US.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/circle/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/circle/test/__snapshots__/demo.spec.js.snap" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/circle/test/__snapshots__/demo.spec.js.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/circle/zh-CN.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/circle/zh-CN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/col/demo/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/col/demo/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/col/en-US.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/col/en-US.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/col/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/col/test/__snapshots__/demo.spec.js.snap" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/col/test/__snapshots__/demo.spec.js.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/col/zh-CN.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/col/zh-CN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/collapse-item/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/collapse/demo/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/collapse/demo/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/collapse/en-US.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/collapse/en-US.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/collapse/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/collapse/test/__snapshots__/demo.spec.js.snap" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/collapse/test/__snapshots__/demo.spec.js.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/collapse/test/index.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/collapse/test/index.spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/collapse/zh-CN.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/collapse/zh-CN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/contact-card/demo/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/contact-card/demo/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/contact-card/en-US.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/contact-card/en-US.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/contact-card/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/contact-card/test/__snapshots__/demo.spec.js.snap" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/contact-card/test/__snapshots__/demo.spec.js.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/contact-card/test/__snapshots__/index.spec.js.snap" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/contact-card/test/__snapshots__/index.spec.js.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/contact-card/test/index.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/contact-card/test/index.spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/contact-card/zh-CN.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/contact-card/zh-CN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/contact-edit/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/contact-list/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/coupon-cell/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/coupon-list/Item.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/coupon-list/demo/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/coupon-list/demo/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/coupon-list/en-US.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/coupon-list/en-US.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/coupon-list/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/coupon-list/test/__snapshots__/demo.spec.js.snap" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/coupon-list/test/__snapshots__/demo.spec.js.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/coupon-list/test/__snapshots__/index.spec.js.snap" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/coupon-list/test/__snapshots__/index.spec.js.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/coupon-list/test/index.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/coupon-list/test/index.spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/coupon-list/zh-CN.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/coupon-list/zh-CN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/datetime-picker/demo/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/datetime-picker/demo/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/datetime-picker/en-US.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/datetime-picker/en-US.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/datetime-picker/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/datetime-picker/test/__snapshots__/demo.spec.js.snap" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/datetime-picker/test/__snapshots__/demo.spec.js.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/datetime-picker/zh-CN.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/datetime-picker/zh-CN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/dialog/Dialog.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/dialog/demo/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/dialog/demo/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/dialog/en-US.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/dialog/en-US.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/dialog/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/dialog/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/dialog/test/__snapshots__/demo.spec.js.snap" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/dialog/test/__snapshots__/demo.spec.js.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/dialog/test/index.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/dialog/test/index.spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/dialog/zh-CN.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/dialog/zh-CN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/field/demo/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/field/demo/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/field/en-US.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/field/en-US.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/field/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/field/test/__snapshots__/demo.spec.js.snap" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/field/test/__snapshots__/demo.spec.js.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/field/test/__snapshots__/index.spec.js.snap" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/field/test/__snapshots__/index.spec.js.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/field/test/index.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/field/test/index.spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/field/zh-CN.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/field/zh-CN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/goods-action-big-btn/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/goods-action-mini-btn/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/goods-action/demo/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/goods-action/demo/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/goods-action/en-US.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/goods-action/en-US.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/goods-action/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/goods-action/test/__snapshots__/demo.spec.js.snap" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/goods-action/test/__snapshots__/demo.spec.js.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/goods-action/test/index.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/goods-action/test/index.spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/goods-action/zh-CN.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/goods-action/zh-CN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/icon/assets/icons.sketch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/icon/config/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/icon/config/template-local.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/icon/config/template.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/icon/demo/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/icon/demo/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/icon/en-US.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/icon/en-US.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/icon/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/icon/test/__snapshots__/demo.spec.js.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/icon/test/demo.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/icon/vant-icon-76f274.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/icon/zh-CN.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/icon/zh-CN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/image-preview/ImagePreview.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/image-preview/demo/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/image-preview/demo/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/image-preview/en-US.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/image-preview/en-US.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/image-preview/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/image-preview/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/image-preview/test/__snapshots__/index.spec.js.snap" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/image-preview/test/__snapshots__/index.spec.js.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/image-preview/test/index.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/image-preview/test/index.spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/image-preview/zh-CN.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/image-preview/zh-CN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/info/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/lazyload/demo/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/lazyload/demo/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/lazyload/en-US.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/lazyload/en-US.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/lazyload/zh-CN.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/lazyload/zh-CN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/list/demo/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/list/demo/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/list/en-US.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/list/en-US.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/list/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/list/test/__snapshots__/demo.spec.js.snap" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/list/test/__snapshots__/demo.spec.js.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/list/test/index.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/list/test/index.spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/list/zh-CN.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/list/zh-CN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/loading/demo/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/loading/demo/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/loading/en-US.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/loading/en-US.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/loading/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/loading/test/__snapshots__/demo.spec.js.snap" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/loading/test/__snapshots__/demo.spec.js.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/loading/zh-CN.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/loading/zh-CN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/locale/en-US.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/locale/en-US.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/locale/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/locale/lang/en-US.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/locale/lang/zh-CN.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/locale/lang/zh-HK.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/locale/zh-CN.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/locale/zh-CN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/mixins/bem.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/mixins/find-parent.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/mixins/find-parent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/mixins/i18n.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/mixins/popup/Modal.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/mixins/popup/context.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/mixins/popup/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/mixins/popup/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/mixins/popup/manager.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/mixins/router-link.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/mixins/touch.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/mixins/touch.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/nav-bar/demo/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/nav-bar/demo/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/nav-bar/en-US.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/nav-bar/en-US.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/nav-bar/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/nav-bar/test/__snapshots__/demo.spec.js.snap" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/nav-bar/test/__snapshots__/demo.spec.js.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/nav-bar/zh-CN.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/nav-bar/zh-CN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/notice-bar/demo/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/notice-bar/demo/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/notice-bar/en-US.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/notice-bar/en-US.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/notice-bar/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/notice-bar/test/__snapshots__/demo.spec.js.snap" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/notice-bar/test/__snapshots__/demo.spec.js.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/notice-bar/zh-CN.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/notice-bar/zh-CN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/number-keyboard/Key.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/number-keyboard/demo/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/number-keyboard/demo/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/number-keyboard/en-US.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/number-keyboard/en-US.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/number-keyboard/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/number-keyboard/test/__snapshots__/demo.spec.js.snap" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/number-keyboard/test/__snapshots__/demo.spec.js.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/number-keyboard/test/index.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/number-keyboard/test/index.spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/number-keyboard/zh-CN.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/number-keyboard/zh-CN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/pagination/demo/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/pagination/demo/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/pagination/en-US.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/pagination/en-US.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/pagination/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/pagination/test/__snapshots__/demo.spec.js.snap" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/pagination/test/__snapshots__/demo.spec.js.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/pagination/zh-CN.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/pagination/zh-CN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/panel/demo/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/panel/demo/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/panel/en-US.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/panel/en-US.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/panel/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/panel/test/__snapshots__/demo.spec.js.snap" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/panel/test/__snapshots__/demo.spec.js.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/panel/zh-CN.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/panel/zh-CN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/password-input/demo/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/password-input/demo/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/password-input/en-US.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/password-input/en-US.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/password-input/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/password-input/test/__snapshots__/demo.spec.js.snap" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/password-input/test/__snapshots__/demo.spec.js.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/password-input/zh-CN.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/password-input/zh-CN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/picker/PickerColumn.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/picker/demo/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/picker/demo/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/picker/en-US.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/picker/en-US.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/picker/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/picker/test/__snapshots__/demo.spec.js.snap" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/picker/test/__snapshots__/demo.spec.js.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/picker/test/__snapshots__/index.spec.js.snap" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/picker/test/__snapshots__/index.spec.js.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/picker/test/index.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/picker/test/index.spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/picker/zh-CN.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/picker/zh-CN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/popup/demo/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/popup/demo/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/popup/en-US.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/popup/en-US.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/popup/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/popup/test/__snapshots__/demo.spec.js.snap" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/popup/test/__snapshots__/demo.spec.js.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/popup/test/index.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/popup/test/index.spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/popup/zh-CN.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/popup/zh-CN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/progress/demo/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/progress/demo/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/progress/en-US.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/progress/en-US.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/progress/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/progress/test/__snapshots__/demo.spec.js.snap" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/progress/test/__snapshots__/demo.spec.js.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/progress/test/__snapshots__/index.spec.js.snap" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/progress/test/__snapshots__/index.spec.js.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/progress/test/index.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/progress/test/index.spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/progress/zh-CN.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/progress/zh-CN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/pull-refresh/demo/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/pull-refresh/demo/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/pull-refresh/en-US.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/pull-refresh/en-US.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/pull-refresh/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/pull-refresh/test/__snapshots__/demo.spec.js.snap" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/pull-refresh/test/__snapshots__/demo.spec.js.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/pull-refresh/test/__snapshots__/index.spec.js.snap" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/pull-refresh/test/__snapshots__/index.spec.js.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/pull-refresh/test/index.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/pull-refresh/test/index.spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/pull-refresh/zh-CN.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/pull-refresh/zh-CN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/radio-group/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/radio/demo/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/radio/demo/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/radio/en-US.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/radio/en-US.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/radio/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/radio/test/__snapshots__/demo.spec.js.snap" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/radio/test/__snapshots__/demo.spec.js.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/radio/zh-CN.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/radio/zh-CN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/rate/demo/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/rate/demo/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/rate/en-US.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/rate/en-US.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/rate/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/rate/test/__snapshots__/demo.spec.js.snap" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/rate/test/__snapshots__/demo.spec.js.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/rate/test/index.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/rate/test/index.spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/rate/zh-CN.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/rate/zh-CN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/row/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/search/demo/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/search/demo/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/search/en-US.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/search/en-US.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/search/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/search/test/__snapshots__/demo.spec.js.snap" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/search/test/__snapshots__/demo.spec.js.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/search/test/index.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/search/test/index.spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/search/zh-CN.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/search/zh-CN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/sku/Sku.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/sku/components/SkuActions.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/sku/components/SkuHeader.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/sku/components/SkuImgUploader.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/sku/components/SkuMessages.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/sku/components/SkuRow.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/sku/components/SkuRowItem.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/sku/components/SkuStepper.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/sku/demo/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/sku/demo/data.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/sku/demo/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/sku/demo/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/sku/en-US.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/sku/en-US.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/sku/test/__snapshots__/demo.spec.js.snap" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/sku/test/__snapshots__/demo.spec.js.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/sku/utils/skuHelper.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/sku/utils/skuHelper.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/sku/zh-CN.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/sku/zh-CN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/slider/demo/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/slider/demo/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/slider/en-US.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/slider/en-US.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/slider/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/slider/test/__snapshots__/demo.spec.js.snap" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/slider/test/__snapshots__/demo.spec.js.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/slider/test/__snapshots__/index.spec.js.snap" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/slider/test/__snapshots__/index.spec.js.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/slider/test/index.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/slider/test/index.spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/slider/zh-CN.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/slider/zh-CN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/step/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/stepper/demo/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/stepper/demo/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/stepper/en-US.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/stepper/en-US.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/stepper/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/stepper/test/__snapshots__/demo.spec.js.snap" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/stepper/test/__snapshots__/demo.spec.js.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/stepper/test/__snapshots__/index.spec.js.snap" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/stepper/test/__snapshots__/index.spec.js.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/stepper/test/index.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/stepper/test/index.spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/stepper/zh-CN.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/stepper/zh-CN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/steps/demo/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/steps/demo/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/steps/en-US.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/steps/en-US.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/steps/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/steps/test/__snapshots__/demo.spec.js.snap" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/steps/test/__snapshots__/demo.spec.js.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/steps/zh-CN.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/steps/zh-CN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/submit-bar/demo/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/submit-bar/demo/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/submit-bar/en-US.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/submit-bar/en-US.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/submit-bar/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/submit-bar/test/__snapshots__/demo.spec.js.snap" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/submit-bar/test/__snapshots__/demo.spec.js.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/submit-bar/test/__snapshots__/index.spec.js.snap" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/submit-bar/test/__snapshots__/index.spec.js.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/submit-bar/test/index.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/submit-bar/test/index.spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/submit-bar/zh-CN.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/submit-bar/zh-CN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/swipe-cell/demo/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/swipe-cell/demo/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/swipe-cell/en-US.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/swipe-cell/en-US.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/swipe-cell/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/swipe-cell/test/__snapshots__/demo.spec.js.snap" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/swipe-cell/test/__snapshots__/demo.spec.js.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/swipe-cell/test/__snapshots__/index.spec.js.snap" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/swipe-cell/test/__snapshots__/index.spec.js.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/swipe-cell/test/index.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/swipe-cell/test/index.spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/swipe-cell/zh-CN.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/swipe-cell/zh-CN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/swipe-item/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/swipe/demo/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/swipe/demo/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/swipe/en-US.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/swipe/en-US.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/swipe/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/swipe/test/__snapshots__/demo.spec.js.snap" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/swipe/test/__snapshots__/demo.spec.js.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/swipe/test/index.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/swipe/test/index.spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/swipe/zh-CN.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/swipe/zh-CN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/switch-cell/demo/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/switch-cell/demo/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/switch-cell/en-US.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/switch-cell/en-US.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/switch-cell/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/switch-cell/test/__snapshots__/demo.spec.js.snap" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/switch-cell/test/__snapshots__/demo.spec.js.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/switch-cell/test/index.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/switch-cell/test/index.spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/switch-cell/zh-CN.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/switch-cell/zh-CN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/switch/demo/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/switch/demo/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/switch/en-US.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/switch/en-US.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/switch/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/switch/test/__snapshots__/demo.spec.js.snap" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/switch/test/__snapshots__/demo.spec.js.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/switch/test/index.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/switch/test/index.spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/switch/zh-CN.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/switch/zh-CN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/tab/demo/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/tab/demo/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/tab/en-US.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/tab/en-US.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/tab/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/tab/test/__snapshots__/demo.spec.js.snap" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/tab/test/__snapshots__/demo.spec.js.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/tab/zh-CN.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/tab/zh-CN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/tabbar-item/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/tabbar/demo/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/tabbar/demo/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/tabbar/en-US.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/tabbar/en-US.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/tabbar/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/tabbar/test/__snapshots__/demo.spec.js.snap" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/tabbar/test/__snapshots__/demo.spec.js.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/tabbar/zh-CN.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/tabbar/zh-CN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/tabs/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/tag/demo/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/tag/demo/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/tag/en-US.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/tag/en-US.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/tag/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/tag/test/__snapshots__/demo.spec.js.snap" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/tag/test/__snapshots__/demo.spec.js.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/tag/zh-CN.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/tag/zh-CN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/toast/Toast.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/toast/demo/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/toast/demo/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/toast/en-US.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/toast/en-US.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/toast/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/toast/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/toast/test/__snapshots__/demo.spec.js.snap" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/toast/test/__snapshots__/demo.spec.js.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/toast/test/__snapshots__/index.spec.js.snap" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/toast/test/__snapshots__/index.spec.js.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/toast/test/index.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/toast/test/index.spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/toast/zh-CN.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/toast/zh-CN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/tree-select/demo/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/tree-select/demo/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/tree-select/en-US.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/tree-select/en-US.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/tree-select/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/tree-select/test/__snapshots__/demo.spec.js.snap" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/tree-select/test/__snapshots__/demo.spec.js.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/tree-select/test/index.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/tree-select/test/index.spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/tree-select/zh-CN.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/tree-select/zh-CN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/uploader/demo/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/uploader/demo/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/uploader/en-US.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/uploader/en-US.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/uploader/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/uploader/test/__snapshots__/demo.spec.js.snap" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/uploader/test/__snapshots__/demo.spec.js.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/uploader/test/index.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/uploader/test/index.spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/uploader/zh-CN.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/uploader/zh-CN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/utils/clickoutside.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/utils/create-basic.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/utils/create.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/utils/deep-assign.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/utils/deep-clone.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/utils/event.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/utils/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/utils/raf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/utils/scroll.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/utils/test/index.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/utils/test/index.spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/utils/validate/email.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/utils/validate/mobile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/utils/validate/number.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/lib/actionsheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/lib/address-edit.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/lib/address-list.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/lib/badge.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/lib/base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/lib/button.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/lib/card.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/lib/cell.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/lib/checkbox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/lib/circle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/lib/col.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/lib/collapse.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/lib/contact-card.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/lib/contact-edit.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/lib/contact-list.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/lib/coupon-list.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/lib/dialog.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/lib/field.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/lib/goods-action.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/lib/icon-local.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/lib/icon.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/lib/image-preview.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/lib/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/lib/info.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/lib/list.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/lib/loading.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/lib/nav-bar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/lib/notice-bar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/lib/number-keyboard.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/lib/pagination.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/lib/panel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/lib/password-input.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/lib/picker.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/lib/popup.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/lib/progress.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/lib/pull-refresh.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/lib/radio.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/lib/rate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/lib/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/lib/row.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/lib/search.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/lib/sku.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/lib/slider.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/lib/stepper.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/lib/steps.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/lib/submit-bar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/lib/swipe-cell.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/lib/swipe.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/lib/switch-cell.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/lib/switch.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/lib/tab.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/lib/tabbar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/lib/tag.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/lib/toast.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/lib/tree-select.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/lib/uploader.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/src/actionsheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/src/address-edit.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/src/address-list.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/src/badge.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/src/base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/src/button.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/src/card.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/src/cell.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/src/checkbox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/src/circle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/src/col.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/src/collapse.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/src/common/animation.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/src/common/clearfix.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/src/common/ellipsis.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/src/common/hairline.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/src/common/normalize.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/src/common/var.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/src/contact-card.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/src/contact-edit.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/src/contact-list.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/src/coupon-list.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/src/dialog.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/src/field.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/src/goods-action.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/src/icon-local.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/src/icon.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/src/image-preview.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/src/info.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/src/list.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/src/loading.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/src/mixins/clearfix.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/src/mixins/ellipsis.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/src/mixins/hairline.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/src/nav-bar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/src/notice-bar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/src/number-keyboard.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/src/pagination.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/src/panel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/src/password-input.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/src/picker.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/src/popup.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/src/progress.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/src/pull-refresh.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/src/radio.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/src/rate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/src/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/src/row.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/src/search.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/src/sku.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/src/slider.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/src/stepper.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/src/steps.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/src/submit-bar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/src/swipe-cell.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/src/swipe.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/src/switch-cell.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/src/switch.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/src/tab.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/src/tabbar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/src/tag.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/src/toast.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/src/tree-select.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/src/uploader.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/vant-css/src/vant-icon-243435.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/waterfall/demo/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/waterfall/demo/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/waterfall/directive.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/waterfall/directive.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/waterfall/en-US.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/waterfall/en-US.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/waterfall/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/waterfall/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/packages/waterfall/zh-CN.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/packages/waterfall/zh-CN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/types/component.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/types/component.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/types/dialog.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/types/dialog.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/types/image-preview.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/types/image-preview.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/types/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/types/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/types/toast.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/types/toast.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/types/waterfall.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/types/waterfall.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vue-lazyload/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vue-lazyload/package.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/betterMan/node_modules/" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -14,8 +1035,81 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/store/store.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/App.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3660">
+              <caret line="122" column="19" selection-start-line="122" selection-start-column="19" selection-end-line="122" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/components/index.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="990" column="36" selection-start-line="990" selection-start-column="36" selection-end-line="990" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>saveDataFromOtherMoudleFn</find>
+      <find>userToken</find>
+      <find>getIsDevModeFn</find>
+      <find>changeIsNewWebviewFn</find>
+      <find>registerEvent</find>
+      <find>returnDateFn</find>
+      <find>pageComAnmShowStatus</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/App.vue" />
+        <option value="$PROJECT_DIR$/config/index.js" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
@@ -37,6 +1131,28 @@
               <item name="betterMan" type="b2602c69:ProjectViewProjectNode" />
               <item name="betterMan" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="betterMan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="betterMan" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="betterMan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="betterMan" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="betterMan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="betterMan" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="betterMan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="betterMan" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="store" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -45,9 +1161,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../shop" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
@@ -62,6 +1179,18 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="dev" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -73,28 +1202,39 @@
       <option name="presentableId" value="Default" />
       <updated>1556261130369</updated>
       <workItem from="1556261133305" duration="110000" />
+      <workItem from="1556411640738" duration="1053000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="286000" />
+    <option name="totallyTimeSpent" value="6161000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1264489" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.329718" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.329718" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -103,5 +1243,47 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/store/store.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3660">
+          <caret line="122" column="19" selection-start-line="122" selection-start-column="19" selection-end-line="122" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="990" column="36" selection-start-line="990" selection-start-column="36" selection-end-line="990" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
